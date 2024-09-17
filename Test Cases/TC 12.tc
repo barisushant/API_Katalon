@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC 12</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>59fe996c-4b5e-41eb-9c99-c1286ab50240</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>051dd30f-d2e2-41ee-946f-a335f2eb8a9d</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>880cfb1f-d0ae-464e-8f89-9b3fccaf2d22</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>58a1c0fe-b3ca-40a8-870f-7b47c5ed767c</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>98d3b55e-197c-453f-bf9e-2d9234bff2cd</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>1bf4d8bc-4329-4ac8-a8bd-5479f2db4cb6</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'John Doe'</defaultValue>
+      <description></description>
+      <id>051dd30f-d2e2-41ee-946f-a335f2eb8a9d</id>
+      <masked>false</masked>
+      <name>Username</name>
+   </variable>
+   <variable>
+      <defaultValue>'ThisIsNotAPassword'</defaultValue>
+      <description></description>
+      <id>880cfb1f-d0ae-464e-8f89-9b3fccaf2d22</id>
+      <masked>false</masked>
+      <name>pawd</name>
+   </variable>
+   <variable>
+      <defaultValue>'Hongkong CURA Healthcare Center'</defaultValue>
+      <description></description>
+      <id>58a1c0fe-b3ca-40a8-870f-7b47c5ed767c</id>
+      <masked>false</masked>
+      <name>facility</name>
+   </variable>
+   <variable>
+      <defaultValue>'10/09/2024'</defaultValue>
+      <description></description>
+      <id>98d3b55e-197c-453f-bf9e-2d9234bff2cd</id>
+      <masked>false</masked>
+      <name>date</name>
+   </variable>
+   <variable>
+      <defaultValue>'Testing'</defaultValue>
+      <description></description>
+      <id>1bf4d8bc-4329-4ac8-a8bd-5479f2db4cb6</id>
+      <masked>false</masked>
+      <name>Comments</name>
+   </variable>
+</TestCaseEntity>
